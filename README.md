@@ -25,9 +25,9 @@ I’m a builder at heart. I approach software with the same passion I had for **
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=idogildnur003&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idogildnur003&layout=compact&theme=radical)
 
 ---
 
-📫 **Let's connect:** [https://www.linkedin.com/in/ido-gildnur/] | [idogildnur003@gmail.com]
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/ido-gildnur/) | [Email Me](mailto:idogildnur003@gmail.com)
