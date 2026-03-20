@@ -24,9 +24,22 @@ I’m a builder at heart. I approach software with the same passion I had for **
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=idogildnur003&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idogildnur003&layout=compact&theme=radical)
+---
+
+### 🧠 Technical Philosophy & Competencies
+
+| **System Architecture** | **Backend Engineering** | **Development Focus** |
+| :--- | :--- | :--- |
+| Modular Design | High-Performance Go | Scalable Microservices |
+| Structural Blueprints | .NET Core Ecosystem | API Design & Security |
+| Clean Code Principles | Asynchronous Patterns | TypeScript Data Analysis |
+
+---
+
+### 🔭 Currently Exploring
+* Deepening my understanding of **Low-Level Operating Systems** to build more efficient software.
+* Refining automated **Data Collection** pipelines.
+* Contributing to architectural discussions in the **Go/C#** communities.
 
 ---
 
